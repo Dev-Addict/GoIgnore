@@ -5,7 +5,7 @@ A simple tool to work with .ignore files in Go.
 ## Installation
 
 ```bash
-go get github.com/monochromegane/goignore
+go get github.com/dev-addict/goignore
 ```
 
 ## Documentation
